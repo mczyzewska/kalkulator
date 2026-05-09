@@ -87,3 +87,6 @@ Aplikacja będzie dostępna pod adresem `http://localhost:8000`.
 ```bash
 composer run test
 ```
+---
+*Projekt stanowi część portfolio akademickiego*
+
