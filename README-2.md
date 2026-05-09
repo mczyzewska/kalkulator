@@ -68,7 +68,7 @@ Aplikacja webowa zbudowana w **Laravel**, realizująca funkcje kalkulatora nauko
 
 ```bash
 # 1. Sklonuj repozytorium
-git clone https://github.com/[twoj-login]/laravel-calculator.git
+git clone https://github.com/mczyzewska/laravel-calculator.git
 cd laravel-calculator
 
 # 2. Zainstaluj zależności, skonfiguruj .env i uruchom migracje
@@ -87,11 +87,3 @@ Aplikacja będzie dostępna pod adresem `http://localhost:8000`.
 ```bash
 composer run test
 ```
-
----
-
-## 👤 Autor
-
-**[Imię i Nazwisko]**  
-[Opcjonalnie: link do profilu GitHub]  
-[Rok]
